@@ -1,6 +1,6 @@
 # Getting Started with  App
 
-Create two folders bcakend and frontend and install node_modules in both of them by using :
+Create two folders in vs backend and frontend and install node_modules in both of them by using :
  
  npm i
  
