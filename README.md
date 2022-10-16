@@ -4,9 +4,8 @@ Create two folders in Visual Studio named backend and frontend than segregate th
  
  npm i
  
- ![Screenshot (47)](https://user-images.githubusercontent.com/66800242/196044107-1b56ae8b-63ac-4385-8e53-37c4efe88a0d.png)
-
-
+ ![Screenshot (48)](https://user-images.githubusercontent.com/66800242/196045416-45b11e06-27d4-4190-8b62-28b7e1c39a9c.png)
+ 
 ### for backend
 Firstly change the directory by using cd than run
  
