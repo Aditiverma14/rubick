@@ -1,10 +1,11 @@
 # Getting Started with  App
 
-Create two folders in vs backend and frontend and install node_modules in both of them by using :
+Create two folders in Visual Studio named backend and frontend than segregate the file as shown in the image after that install node_modules in both of them by using :
  
  npm i
  
- ![Screenshot (45)](https://user-images.githubusercontent.com/66800242/194653399-b1a009e3-e2eb-4d05-a62f-a96746308fa7.png)
+ ![Screenshot (47)](https://user-images.githubusercontent.com/66800242/196044107-1b56ae8b-63ac-4385-8e53-37c4efe88a0d.png)
+
 
 ### for backend
 Firstly change the directory by using cd than run
